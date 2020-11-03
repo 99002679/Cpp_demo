@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/Desktop/Account1/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/executeTests.dir/account_test.cpp.o -c /home/user/Desktop/Account1/account_test.cpp",
+  "file": "/home/user/Desktop/Account1/account_test.cpp"
+}
+]
