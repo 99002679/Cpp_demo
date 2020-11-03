@@ -23,6 +23,7 @@ Account::Account(const Account& ref) :
 }
 void Account::credit(double amount) {
 	m_balance += amount;
+	
 }
 void Account::debit(double amount) {
 	//min balance check
